@@ -32,3 +32,6 @@ add_subdirectory(assignments/assignment3-task2)
 
 # Add the assignment4 child project (MPI Ping-Pong)
 add_subdirectory(assignments/assignment4)
+
+# Add the assignment5 child project (MPI GEMM algorithm)
+add_subdirectory(assignments/assignment5)
